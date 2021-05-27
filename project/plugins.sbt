@@ -1,0 +1,1 @@
+addSbtPlugin("org.alexr" % "plugin-1" % "0.0.5-SNAPSHOT")
